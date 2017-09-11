@@ -1,0 +1,5 @@
+#什么是作用域--变量
+>where do those variables live? In other words, where are they stored? And, most importantly, how does our program find them when it needs them?
+>rules for storing variables in some location, and for finding those variables at a later time. We'll call that set of rules: Scope.
+  变量是存储在哪儿的，程序是如何找到它的，这一系列的规则就叫做作用域。那么，作用域--这些关于变量存取的规则，又是何时设定的呢？
+  javascript，虽然常被称为‘解释型’，‘动态语言’，但它其实是编译型语言。
